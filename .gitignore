@@ -4,3 +4,5 @@
 
 /.vs
 /CSharp/Math/.vs/Math/v15/Server/sqlite3
+/CSharp/Math/.vs/Math/v15
+/CSharp/Math/Math/obj
