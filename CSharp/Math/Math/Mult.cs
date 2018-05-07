@@ -10,7 +10,7 @@ namespace Math
     {
         public int mult(int x, int y)
         {
-            if (x == 0)
+            if (x == 0 || y == 0)
             {
                 return 0;
             }
@@ -20,7 +20,7 @@ namespace Math
 
         public long mult(long x, long y)
         {
-            if (x == 0L)
+            if (x == 0L || y == 0L)
             {
                 return 0L;
             }

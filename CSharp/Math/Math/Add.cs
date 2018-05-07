@@ -15,6 +15,10 @@ namespace Math
             {
                 return y;
             }
+            else if (y == 0)
+            {
+                return x;
+            }
 
             return x + y;
         }
@@ -24,6 +28,10 @@ namespace Math
             if (x == 0)
             {
                 return y;
+            }
+            else if (y == 0)
+            {
+                return x;
             }
 
             return x + y;
