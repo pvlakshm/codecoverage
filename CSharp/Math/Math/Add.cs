@@ -11,28 +11,20 @@ namespace Math
     {
         public int add(int x, int y)
         {
-            //if (x == 0)
-            //{
-            //    return y;
-            //}
-            //else if (y == 0)
-            //{
-            //    return x;
-            //}
-        
+            if (x == 0)
+            {
+                return y;
+            }
+
             return x + y;
         }
 
         public long add(long x, long y)
         {
-            //if (x == 0)
-            //{
-            //    return y;
-            //}
-            //else if (y == 0)
-            //{
-            //    return x;
-            //}
+            if (x == 0)
+            {
+                return y;
+            }
 
             return x + y;
         }
