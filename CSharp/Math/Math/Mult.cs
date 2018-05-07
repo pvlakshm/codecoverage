@@ -10,11 +10,21 @@ namespace Math
     {
         public int mult(int x, int y)
         {
+            if (x == 0)
+            {
+                return 0;
+            }
+
             return x * y; // Added a comment to this line.
         }
 
         public long mult(long x, long y)
         {
+            if (x == 0L)
+            {
+                return 0L;
+            }
+
             return x * y;
         }
 
