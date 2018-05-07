@@ -30,10 +30,32 @@ namespace MultTests
         }
 
         [TestMethod]
+        public void multTestint2()
+        {
+            int x = 2;
+            int y = 0;
+            int prod = 0;
+
+            int res = new Math.Mult().mult(x, y);
+            Assert.AreEqual(prod, res);
+        }
+
+        [TestMethod]
         public void multTestlong1()
         {
             long x = 0;
             long y = 2;
+            long prod = 0;
+
+            long res = new Math.Mult().mult(x, y);
+            Assert.AreEqual(prod, res);
+        }
+
+        [TestMethod]
+        public void multTestlong2()
+        {
+            long x = 2;
+            long y = 0;
             long prod = 0;
 
             long res = new Math.Mult().mult(x, y);

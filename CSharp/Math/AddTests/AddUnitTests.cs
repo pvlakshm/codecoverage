@@ -28,6 +28,18 @@ namespace AddTests
             Assert.AreEqual(sum, res);
         }
 
+
+        [TestMethod]
+        public void addTestEvenNumbers3()
+        {
+            int x = 2;
+            int y = 0;
+            int sum = 2;
+
+            int res = new Math.Add().add(x, y);
+            Assert.AreEqual(sum, res);
+        }
+
         [TestMethod]
         public void addTestLongEvenNumbers2()
         {
