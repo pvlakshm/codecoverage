@@ -1,3 +1,6 @@
+
+release, any cpu
+-
 # codecoverage
 Lorem ipsum dolor sit amet, vivendo pertinacia no his, cibo solet cum ea. Alia conceptam te mel. At ferri albucius complectitur nec, hinc virtute elaboraret ei quo. Eum tantas vidisse corpora ne, mea cu nominati platonem. Nam graecis omnesque persecuti ea.
 
