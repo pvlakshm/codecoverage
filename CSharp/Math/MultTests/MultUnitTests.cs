@@ -12,7 +12,7 @@ namespace MultTests
         {
             int x = 2;
             int y = 2;
-            int prod = 4;
+            int prod = 44;
 
             int res = new Math.Mult().mult(x, y);
             Assert.AreEqual(prod, res);
