@@ -11,7 +11,7 @@ namespace SubValidate
         {
             int x = 2;
             int y = 2;
-            int diff = 10;
+            int diff = 0;
 
             int res = new Math.Sub().sub(x, y);
             Assert.AreEqual(diff, res);
