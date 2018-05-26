@@ -13,3 +13,8 @@
 /CSharp/Math/AddTests/obj/Debug
 /CSharp/Math/.vs/Math/DesignTimeBuild
 /CSharp/Math/TestResults/cfe17265-9880-4bfa-8eb4-49d96188d2fb
+/CSharp/Math/SubTests/obj/Release
+/CSharp/Math/MultTests/obj/Release
+/CSharp/Math/DivTests/obj/Release
+/CSharp/Math/AddTests/obj/Release
+/CSharp/Math/SubValidate/obj/Debug
